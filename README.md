@@ -40,7 +40,6 @@ I'm a passionate full-stack developer and cybersecurity enthusiast from West Ben
 
 ### 🎓 Academic & Professional Background
 
-\`\`\`yaml
 Personal:
   Name: "Ratnadeep Bose"
   Location: "West Bengal, India"
@@ -57,7 +56,7 @@ Professional:
   Specialization: "Web Application Security & Bug Bounty Hunting"
   Environment: "Multi-VM (Kali Linux + Windows 11 + VMware)"
   Philosophy: "Secure-by-design applications from development to deployment"
-\`\`\`
+
 
 <br/>
 
@@ -110,7 +109,7 @@ Professional:
 
 ### 🚀 Current & Recent Roles
 
-\`\`\`diff
+
 + September 2025 – Present: Web Developer Intern @ Easy Solutions
 - Contributed to building and maintaining websites using modern web technologies
 - Collaborated on REST API integrations and front-end development
@@ -135,7 +134,7 @@ Professional:
 - Personalized coaching in arts and humanities
 - Innovative teaching methodologies
 - Comprehensive academic development mentoring
-\`\`\`
+
 
 <br/>
 
@@ -209,25 +208,18 @@ Professional:
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <!-- This will show an animated snake eating your contributions -->
-  <img src="https://github.com/RatnadeepBose/RatnadeepBose/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 
 <br/>
 
 ## 🌟 What I'm Currently Focused On
 
-\`\`\`diff
 + 🔭 Building Veronica Scanner - Enhancing features and adding new vulnerability checks
 + 🌱 Learning Advanced Penetration Testing & Cloud Security
 + 👯 Looking to collaborate on Cybersecurity Tools & Open Source Projects
 + 🤔 Exploring Machine Learning in Security for predictive vulnerability detection
 + 💬 Mentoring students in development and security
 + ⚡ Working in multi-VM environment with Kali Linux and Windows 11
-\`\`\`
+
 
 <br/>
 
@@ -265,13 +257,12 @@ I'm open for exciting opportunities in web development, cybersecurity collaborat
 
 ## 📞 Quick Contact
 
-\`\`\`yaml
 Email: "ratnadeepbusiness321@gmail.com"
 Phone: "+91 7001005520"
 Location: "West Bengal, India"
 Availability: "Available for Remote Work Worldwide"
 Focus: "Web Development & Security Projects"
-\`\`\`
+
 
 <br/>
 
@@ -298,23 +289,4 @@ Focus: "Web Development & Security Projects"
 ### 🔥 **"From West Bengal to the World - Building Secure Digital Futures"** 🔥
 
 </div>
-"@
 
-# Save the ultimate profile README
-$ultimateProfileReadme | Out-File -FilePath "C:\Users\boser\github_profile_README.md" -Encoding UTF8
-
-Write-Host "🎉 ULTIMATE GitHub Profile README Created!" -ForegroundColor Green
-Write-Host "📁 File: C:\Users\boser\github_profile_README.md" -ForegroundColor Yellow
-Write-Host "`n🚀 HOW TO SET UP YOUR GITHUB PROFILE README:" -ForegroundColor Cyan
-Write-Host "   1. Go to: https://github.com/RatnadeepBose" -ForegroundColor White
-Write-Host "   2. Create NEW repository named: RatnadeepBose" -ForegroundColor White
-Write-Host "   3. Make it PUBLIC and initialize with README" -ForegroundColor White
-Write-Host "   4. Replace the README content with this file" -ForegroundColor White
-Write-Host "   5. Commit changes" -ForegroundColor White
-Write-Host "`n💥 Your GitHub profile will have:" -ForegroundColor Magenta
-Write-Host "   ✅ Animated typing text" -ForegroundColor White
-Write-Host "   ✅ Live GitHub stats" -ForegroundColor White
-Write-Host "   ✅ Snake animation eating commits" -ForegroundColor White
-Write-Host "   ✅ All your projects & experience" -ForegroundColor White
-Write-Host "   ✅ Professional badges" -ForegroundColor White
-Write-Host "   ✅ Interactive elements" -ForegroundColor White
